@@ -1,6 +1,7 @@
 #  DeepMediChecker: NLP & Deep Learning-Driven Drug Interaction and Article Explorer
 
 # Objectives
+
 1. To develop an automated system to efficiently assist healthcare professionals and research scholars in extracting crucial DDI information from the extensive biomedical literature.
    
 2. Integrating advanced NLP techniques and utilizing the BioBERT deep learning model, our system is dedicated to the automated identification, classification, and summarization of DDIs within specific medical conditions.
@@ -8,6 +9,7 @@
 3. Offer a unique feature in the form of an article explorer. This article explorer empowers healthcare professionals and research scholars to explore a centralized repository of recommended articles, facilitating a comprehensive understanding of DDIs.
 
 # Dataset Description
+
 1) SemEval 2013 DDI Extraction The models under consideration were trained and
 assessed using the DDIExtraction2013 corpus, accessible for download at the following link: https://github.com/yardstick17/DDIExtraction.
 
